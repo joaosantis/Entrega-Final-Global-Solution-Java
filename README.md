@@ -5,7 +5,7 @@ Este projeto integra **Internet of Bodies (IoB)** e **IA Generativa** para monit
 
 ## 📺 Vídeo de Demonstração (IMPORTANTE)
 Como a solução envolve múltiplos componentes rodando em paralelo, a demonstração completa está gravada aqui:
-👉 **[https://youtu.be/qcRG6lV19J]**
+👉 **https://youtu.be/qcRG6lV19JM?si=U8oIn6QqV4M_W6Z5**
 
 ## 🚀 Como Rodar o Projeto (Passo a Passo)
 
