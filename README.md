@@ -19,3 +19,21 @@ Linux/Mac: ./mvnw spring-boot:run
 Windows: .\mvnw spring-boot:run
 
 A API estará disponível em: http://localhost:8080
+
+🔐 Acesso ao Sistema
+Documentação (Swagger): http://localhost:8080/swagger-ui/index.html
+
+Login (Basic Auth):
+
+Usuário: admin
+
+Senha: admin
+
+(O acesso de leitura GET está liberado, mas operações de escrita exigem login).
+
+🛠️ Estrutura Técnica
+Java 17 + Spring Boot 3: API RESTful com Validação, Paginação e Segurança.
+
+Python 3: Agente inteligente com Google Gemini (GenAI).
+
+PostgreSQL: Persistência de dados via Docker.
